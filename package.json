@@ -1,0 +1,12 @@
+{
+  "name": "artifact2",
+  "version": "1.0.0",
+  "description": "Minimal Node.js + Express.js tutorial server exposing two GET endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
